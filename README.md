@@ -79,4 +79,4 @@ Get Your Diagram Ready: A simple diagram with boxes and arrows is all you need. 
 
 Practice Your Demo Script: Walk through the demo a few times, explaining each step: "Here's the problem... here's the solution... this is where our custom LWC lives... this is what happens when I click the button..."
 
-This plan is focused on the absolute minimum needed to get a powerful, working prototype. It's a fantastic way to learn the fundamentals and have a compelling story ready to go in a very short amount of time. You can do this.
+This plan is focused on the absolute minimum needed to get a powerful, working prototype. It's a fantastic way to learn the fundamentals and have a compelling story ready to go in a very short amount of time.
